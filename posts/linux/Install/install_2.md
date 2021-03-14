@@ -24,7 +24,7 @@ __마더보드 별 BIOS 진입 키__ *([출처:친절한박팀장님 blog](https
 ![set_boot_option](../../../assets/images/linux_img/install_linux_2/set_boot_option.jpg)  
   
 Boot Option을 변경해주고, Save&Exit(F10)을 해주면 CentOS 7 설치 화면으로 진입하게 된다.
-  
+       
 ---
 
 ### 2. Install CentOS 7  
